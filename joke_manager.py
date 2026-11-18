@@ -1,12 +1,16 @@
-
 import json
+import os
 from joke import Joke
 
 
 class JokeManager:
     def __init__(self, file_path="jokes.json"):
+     
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+      
+        self.file_path = os.path.join(current_dir, file_path)
+        
         self.__jokes = []
-        self.file_path = file_path
         self.load_jokes()
 
     def add_joke(self, joke):

@@ -1,0 +1,32 @@
+[
+    {
+        "category": "Spooky",
+        "type": "twopart",
+        "content": "I'm not saying my son is ugly...\nBut on Halloween he went to tell the neighbors to turn down their TV and they gave him some candy."
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "content": "What did the cannibal do after he dumped his girlfriend?\nHe wiped his ass."
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "content": "Why is 6 afraid of 7 in hexadecimal Canada?\nBecause 7 8 9 A?"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "content": "The gas Argon walks into a bar.\nThe barkeeper says \"What would you like to drink?\"\nBut Argon doesn't react."
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "content": "What is the best prefix for global variables?\n//"
+    },
+    {
+        "category": "Programming",
+        "type": "single",
+        "content": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday."
+    }
+]
